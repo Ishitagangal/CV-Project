@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 14 12:16:31 2017
 
-@author: Biagio Brattoli
-"""
 import os, sys, numpy as np
 import argparse
 from time import time

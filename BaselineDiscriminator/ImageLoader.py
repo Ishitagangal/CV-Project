@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 18 11:58:07 2017
-
-@author: Biagio Brattoli
-"""
 import numpy as np
 import torch
 import torch.utils.data as data
